@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://echiephaev.andypiper.org/sitemap.xml
